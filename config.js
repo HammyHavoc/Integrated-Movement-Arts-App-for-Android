@@ -5,7 +5,7 @@ define( function ( require ) {
 	return {
 		app_slug : 'integrated-movement-arts-android',
 		wp_ws_url : 'https://www.integratedmovementarts.com/wp-appkit-api/integrated-movement-arts-android',
-		theme : 'wpak-theme-bootstrap-master',
+		theme : 'wpak-theme-bootstrap-feature-user-login',
 		version : '1.0',
 		app_title : 'Integrated Movement Arts',
 		debug_mode : 'off',
